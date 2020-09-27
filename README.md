@@ -8,9 +8,9 @@ Please read carefully to not make a misstake.
 
 DONT FORGET TO UNZIP THIS ZIP FILE FIRST!!
 
-1. Go back to where the "SecureFolderCode" Folder is located.
+1. Go back to where the "Secure-Folder-with-Password-Code-master" Folder is located.
 
-2. Rename the Folder called "SecureFolderCode" to whatever you want to put.
+2. Rename the Folder called "Secure-Folder-with-Password-Code-master" to whatever you want to put.
 
 3. Open the Folder.
 
