@@ -43,5 +43,5 @@ DONT FORGET TO UNZIP THIS ZIP FILE FIRST!!
 
 15. Now delete the "READ ME FIRST.txt" file and enjoy! ;)
 
-- Secure-Folder-With-Password-Code
+-- Secure-Folder-With-Password-Code
 by: BlueCode Studios (Samuelpc180)
