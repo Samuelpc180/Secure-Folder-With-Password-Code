@@ -4,8 +4,6 @@ Hello! Thanks for downloading the Secure Folder with Passsword, code. With this 
 you can make a Folder locked with password. You just need to do these steps below to setup the Secure Folder.
 Please read carefully to not make a misstake.
 
--------------------------------------------------------------------------------------------------------------
-
 ## Steps
 
 DONT FORGET TO UNZIP THIS ZIP FILE FIRST!!
@@ -43,9 +41,7 @@ DONT FORGET TO UNZIP THIS ZIP FILE FIRST!!
 14. If you want, you can change the "OpenSecureFolder.bat" file name to whatever you want to put (BUT DONT
     ERASE THE ".bat" PART!!!!!!!!)
 
--------------------------------------------------------------------------------------------------------------
+15. Now delete the "READ ME FIRST.txt" file and enjoy! ;)
 
-Now delete the "READ ME FIRST.txt" file and enjoy! ;)
-
-# Secure-Folder-With-Password-Code
+- Secure-Folder-With-Password-Code
 by: BlueCode Studios (Samuelpc180)
